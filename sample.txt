@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html><title>Sample</title>
+<body>
+
+<p>Somu Age:23</p>
+<p>From Bangalore</p>
+
+</body>
+</html>
